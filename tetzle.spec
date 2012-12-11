@@ -51,3 +51,11 @@ EOF
 %{_datadir}/pixmaps/%{name}.xpm
 %{_datadir}/%{name}
 
+
+
+%changelog
+* Wed Mar 14 2012 Andrey Bondrov <abondrov@mandriva.org> 2.0.0-1mdv2011.0
++ Revision: 784974
+- Fix summary
+- imported package tetzle
+
