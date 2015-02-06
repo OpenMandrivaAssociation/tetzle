@@ -1,6 +1,6 @@
 Name:		tetzle
 Version:	2.0.0
-Release:	%mkrel 1
+Release:	2
 Summary:	Tetzle is a jigsaw puzzle game with tetrominoes
 License:	GPLv3
 Group:		Games/Puzzles
