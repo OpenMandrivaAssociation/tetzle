@@ -4,7 +4,7 @@ Release:	2
 Summary:	Tetzle is a jigsaw puzzle game with tetrominoes
 License:	GPLv3
 Group:		Games/Puzzles
-URL:		http://gottcode.org/tetzle/
+URL:		https://gottcode.org/tetzle/
 Source:		%{name}-%{version}.tar.xz
 BuildRequires:	qt4-devel
 
