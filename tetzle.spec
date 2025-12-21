@@ -6,6 +6,7 @@ License:	GPLv3
 Group:		Games/Puzzles
 URL:		https://gottcode.org/tetzle/
 Source:		%{name}-%{version}.tar.xz
+BuildRequires:	make
 BuildRequires:	qt4-devel
 
 %description
